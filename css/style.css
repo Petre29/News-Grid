@@ -56,6 +56,10 @@ h6 {
     overflow: hidden;
 }
 
+.container p {
+  text-align: left; 
+ }
+
 .category {
     display: inline-block;
     color: #fff;
@@ -114,7 +118,6 @@ h6 {
 
 p {
     margin: .5rem 0;
-    text-align: left;
 }
 
 .py-1 { padding: 1.5rem 0; }
