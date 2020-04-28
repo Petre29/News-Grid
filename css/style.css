@@ -114,6 +114,7 @@ h6 {
 
 p {
     margin: .5rem 0;
+    text-align: center;
 }
 
 .py-1 { padding: 1.5rem 0; }
